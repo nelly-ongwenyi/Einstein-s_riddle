@@ -1,0 +1,7 @@
+C:\Users\nelly\Desktop\BBIT\Y4\Sem1\Game\Game_Dev-e190dfbf77505df3aa4c958213298fec105f6b52\riddle_einstein_Cshap\obj\Debug\einstein_riddle.csproj.AssemblyReference.cache
+C:\Users\nelly\Desktop\BBIT\Y4\Sem1\Game\Game_Dev-e190dfbf77505df3aa4c958213298fec105f6b52\riddle_einstein_Cshap\obj\Debug\einstein_riddle.csproj.CoreCompileInputs.cache
+C:\Users\nelly\Desktop\BBIT\Y4\Sem1\Game\Game_Dev-e190dfbf77505df3aa4c958213298fec105f6b52\riddle_einstein_Cshap\obj\Debug\riddle_einstein_Cshap.exe
+C:\Users\nelly\Desktop\BBIT\Y4\Sem1\Game\Game_Dev-e190dfbf77505df3aa4c958213298fec105f6b52\riddle_einstein_Cshap\obj\Debug\riddle_einstein_Cshap.pdb
+C:\Users\nelly\Desktop\BBIT\Y4\Sem1\Game\Game_Dev-e190dfbf77505df3aa4c958213298fec105f6b52\riddle_einstein_Cshap\bin\Debug\riddle_einstein_Cshap.exe.config
+C:\Users\nelly\Desktop\BBIT\Y4\Sem1\Game\Game_Dev-e190dfbf77505df3aa4c958213298fec105f6b52\riddle_einstein_Cshap\bin\Debug\riddle_einstein_Cshap.exe
+C:\Users\nelly\Desktop\BBIT\Y4\Sem1\Game\Game_Dev-e190dfbf77505df3aa4c958213298fec105f6b52\riddle_einstein_Cshap\bin\Debug\riddle_einstein_Cshap.pdb
